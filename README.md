@@ -17,6 +17,6 @@
 > “Strength and growth come only through continuous effort and struggle.”
 
 #### As for me, I always in the morning At 5 AM Tell myself these things:
-- [x] "Hey Qamar, Come Up and go hit the GYM. it is your day today." We need Positive Thinking only :weight_lifting_woman:!
+- [x] "Hey Qamar, Come Up and go hit the GYM. it is your day today." We need Positive Thinking only 🏋️‍♀️!
 - [x] I Remember where I want to be in the future, And to look at *what I can do now* for my goals.
 - [x] What I want to Study and reading today, as well as *What I want to achieve today*.  
