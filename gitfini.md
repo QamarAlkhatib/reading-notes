@@ -27,9 +27,12 @@ So to **get start with git** we have to download it and it can installed in thre
 
 3. **by downloading it and compile the source code**
 
-> **Note**
 
- > **To see how to download it on your machine ** [check this link out](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2)
+> Note: 
+
+To see how to download it on your machine 
+
+[check this link out](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2) 
 
 ## Graphical clints 
 The Graphical User Interface (GUI) tools in Git are built-in. Users can, however, utilize third-party solutions designed for specific systems.
@@ -37,11 +40,12 @@ The Graphical User Interface (GUI) tools in Git are built-in. Users can, however
 ## Default Text Editor
 If you don't specify a default text editor, Git will use the system's default text editor, which is most likely Vim. Type the following into your Terminal or Command Line to set up an alternative text editor, such as Emacs:
 
->  **$ git config --global core.editor emacs**
+``` $ git config --global core.editor emacs ```
 
 ## Check Settings
 To check settings, use this command
-> **$ git config --list command.**
+ 
+ ```$ git config --list command. ```
 
 ## Getting Help
 
