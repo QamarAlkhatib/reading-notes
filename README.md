@@ -6,7 +6,7 @@
 
 ### Table of Content
 Name of the Page | Link to the page
---- | --- |
+---------------- | --------------- |
 Growth Mindset | [Click here](https://qamaralkhatib.github.io/reading-notes/growthmindset)
 Markdown Explanation | [Click here](https://qamaralkhatib.github.io/reading-notes/read01)
 Git Findings | [Click here](https://qamaralkhatib.github.io/reading-notes/gitfini)

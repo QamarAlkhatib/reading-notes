@@ -46,5 +46,3 @@ _we can **do them ** togther_
 > "Never let the fear of striking out keep you from playing the game."
 
 ## THE END
-
-  
