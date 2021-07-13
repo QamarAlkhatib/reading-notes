@@ -100,14 +100,14 @@ There are three parts to the local Git repository:
 
 **2. Index: The area used for staging**
 
-**3. Head: Points to the most recent commit **
+**3. Head: Points to the most recent commit**
 
 ## Saving Changes
 A tracked or untracked state exists for all files in a checked out (or working) copy of a project file.
 
-1. ** Tracked **
+1. **Tracked**
 They were part of the most recent file snapshot and can be updated, unmodified, or staged.
-2. ** Untracked **
+2. **Untracked**
 files were not present in the last snapshot and are no longer in the staging area. 
 
 ## The Life Cycle of File Status
@@ -145,12 +145,12 @@ Use the git status command to see what's up with your files:
 
 ``` git commit -m “made change x,y,z” ```
 
- ## To Committing All Changes 
+##  To Committing All Changes
  by this command:
 
   ``` git commit -a ```
 
-  ## To Pushing Changes
+## To Pushing Changes
 You'd next submit the modifications to a remote repository. In the next part, we'll go through remote repositories in further detail. For now, let's take a look at how to push updates to remotes in general.
 
  **Example** 
