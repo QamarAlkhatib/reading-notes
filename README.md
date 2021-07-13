@@ -7,4 +7,3 @@
 ### Table of Content 
 1. [Growth mindset](https://qamaralkhatib.github.io/reading-notes/growthmindset)
 2. [MarkDown Explanation](https://qamaralkhatib.github.io/reading-notes/read01)
-3. 
