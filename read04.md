@@ -1,5 +1,5 @@
 
-## based on what I've learned on today's class for Javascript
+## based on what I've learned in today's class for Javascript
 
 ### 1. Js Intro Paragraph 
 

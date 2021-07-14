@@ -12,3 +12,4 @@ Growth Mindset | [Click here](https://qamaralkhatib.github.io/reading-notes/grow
 Markdown Explanation | [Click here](https://qamaralkhatib.github.io/reading-notes/read01)
 Git Findings | [Click here](https://qamaralkhatib.github.io/reading-notes/gitfini)
 HTML | [Click here](https://qamaralkhatib.github.io/reading-notes/read03) 
+JavaScript | [Click here](https://qamaralkhatib.github.io/reading-notes/read04)
