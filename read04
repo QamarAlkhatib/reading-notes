@@ -1,7 +1,0 @@
-## based on what I've learned on today's class for Javascript
-
-1. Input and Output in JS
-
-The traditional output of JavaScript is an alarm message, so you can get alerts from anywhere in the world. The warning message appears in a pop-up window in the JavaScript browser, but it is important to understand that the warning function itself is not part of JavaScript. It is given to you by the browser, so if you try to execute an alarm on a node, it is not the case that there is no pop-up box on the node.
-and we can do the alarm message by"
->` alarm("Some message")
