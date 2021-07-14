@@ -1,4 +1,4 @@
-### based on what I have learned from today class 
+### based on what I have learned from today class for Git and GitHub
 
 #### 1. The difference between GUI and CLI
 
