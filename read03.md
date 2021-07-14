@@ -1,4 +1,4 @@
-## based on what I've learned in today's class
+## based on what I've learned in today's class for HTML
 
 ## 1. Wireframe and Design:
 **Wireframes** give designers the first real chance to visualize a website hierarchy and user interface and give customers a valuable first look at how their website will be designed. Teams use wireframes to design a design and criticise its response to testers. **Ideas that sound great on paper do not always translate to the screen, and wireframes can be helpful in identifying these kinds of problems early in the design process.**
