@@ -13,5 +13,6 @@ Markdown Explanation | [Click here](https://qamaralkhatib.github.io/reading-note
 Git Findings | [Click here](https://qamaralkhatib.github.io/reading-notes/gitfini)
 HTML | [Click here](https://qamaralkhatib.github.io/reading-notes/read03) 
 JavaScript | [Click here](https://qamaralkhatib.github.io/reading-notes/read04)
-
 CSS | [Click here](https://qamaralkhatib.github.io/reading-notes/read06)
+
+

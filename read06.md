@@ -63,6 +63,3 @@ The most common way to specify colors in CSS is to use hexadecimal values. Hex c
 Cascading Style Sheets (CSS) are better suited to the presentation of documents in the markup language HTML. In Undo, **Eric Meyer explains why your web browser displays HTML markup the way it does.**
 
 The process is quite complex regarding the use of Cascading Style Sheets (CSS) for better cross-browser compatibility and requires additional attention to the specifics assigned to the programming language. Simply put, using CSS Reset for better cross-browser compatibility allows the developer to format multiple websites. The developer can specify the different styles for different default browser settings applicable to the project web page.
-   
-
-
