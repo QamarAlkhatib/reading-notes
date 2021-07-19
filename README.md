@@ -14,9 +14,4 @@ Git Findings | [Click here](https://qamaralkhatib.github.io/reading-notes/gitfin
 HTML | [Click here](https://qamaralkhatib.github.io/reading-notes/read03) 
 JavaScript | [Click here](https://qamaralkhatib.github.io/reading-notes/read04)
 CSS | [Click here](https://qamaralkhatib.github.io/reading-notes/read06)
-<<<<<<< HEAD
-Operators and Loops | [Click here]()
-=======
-
-
->>>>>>> 660fa32b62551f75ce00a9ac0f012293e57dc01a
+Operators and Loops | [Click here](https://qamaralkhatib.github.io/reading-notes/read05)
