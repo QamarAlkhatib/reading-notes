@@ -67,6 +67,7 @@ here is some **Example**
 and the result is 1001
 1001 = 9
 ```
+
 **5. Logical Operators**
 it's typically used with boolean values and returns the value according to the Operators used. so if the Operator used is a boolean it will return a boolean value, otherwise it will return a non-boolean value.
 we use **(&& and ||) Operators**.
@@ -84,9 +85,7 @@ here is some **Example:**
 
 * ``` var myName = 'Qamar';
 myName += 'Alkhatib'; 
-// and the result will be Qamar Alkhatib.
-
-```
+// and the result will be Qamar Alkhatib. ``` 
 
 
 **7. Conditional Operator**
