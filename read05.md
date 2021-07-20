@@ -83,9 +83,11 @@ we use the cancatenation Operator (+) and by it we can cancatenates two string v
 
 here is some **Example:**
 
-* ``` var myName = 'Qamar';
+* ``` 
+var myName = 'Qamar';
 myName += 'Alkhatib'; 
-// and the result will be Qamar Alkhatib. ``` 
+// and the result will be Qamar Alkhatib. 
+``` 
 
 
 **7. Conditional Operator**
@@ -94,14 +96,17 @@ The only JavaScript operator that takes three operands is the conditional operat
 **The syntax is as follows:**
 
 
-``` condition ? val1 : val2 ```
+* ```
+ condition ? val1 : val2 
+```
 
 **8. Comma operator**
 (,) returns the value of the final operand after evaluating both operands. This operator is most commonly used inside a for loop to update many variables each time the loop is run.
 
 here is an **Example:**
 
-``` for(var i = 0, j = 1; i <= j; i++, j--)
+``` 
+for(var i = 0, j = 1; i <= j; i++, j--)
 ```
 
 and we have other types such as typeof , and unary Operators. 
