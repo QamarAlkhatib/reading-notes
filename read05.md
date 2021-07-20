@@ -1,7 +1,7 @@
 
 ## based on what I've learned for Javascript Operators and Loops
 
-### Operators
+## **Operators**
 
 In JS we have 10 types of Operators, and I will discuss them as follows:
 
@@ -109,5 +109,29 @@ here is an **Example:**
 for(var i = 0, j = 1; i <= j; i++, j--)
 ```
 
-and we have other types such as typeof , and unary Operators. 
+and we have other types such as **typeof , and unary Operators.** 
 
+## **Loops**
+Loops are a convenient and efficient technique to repeat a task. Loops come in a variety of shapes and sizes, but they all perform the same thing: **they repeat an activity a certain number of times.**
+
+* **For Loop**
+A for loop is a conditional expression that repeats until it evaluates to false.
+
+here is its syntax:
+
+```
+for ([initialExperssion]; [conditionExperssion]; [incrementExperssion])
+
+statement
+```
+
+* **While loop**
+As long as a stated condition evaluates to true, this statement performs its statements.
+
+here is its syntax:
+
+* ```
+while(condition){
+  statement
+}
+```
