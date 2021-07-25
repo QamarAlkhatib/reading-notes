@@ -16,3 +16,5 @@ JavaScript | [Click here](https://qamaralkhatib.github.io/reading-notes/read04)
 CSS | [Click here](https://qamaralkhatib.github.io/reading-notes/read06)
 Operators and Loops | [Click here](https://qamaralkhatib.github.io/reading-notes/read05)
 Functions in JavaScript | [Click here](https://qamaralkhatib.github.io/reading-notes/read07)
+
+
