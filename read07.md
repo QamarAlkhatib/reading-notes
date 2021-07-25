@@ -61,4 +61,6 @@ while(picNum > 10){
 ```
 This code tells the user to enter how many pictures he wants to see for the specific company rocket, and if he entered a large number the message will show again until the user enter the right value. 
 
-and by control flow, we control on the user based on his/her input. 
+and by control flow, we control on the user based on his/her input.
+
+To go back to the main page, [Click here](https://qamaralkhatib.github.io/reading-notes/)

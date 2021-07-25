@@ -38,3 +38,5 @@ The traditional output of JavaScript is an alarm message, so you can get alerts 
 **JavaScript variables are case sensitive**, for example there are several variables. **JavaScript variables have a type, i.e. A variable can contain a value of any type of data.**
 
 You can assign a value to a variable using the **equals operator**, or you **can declare a variable and use it**. JavaScript contains variables that contain **data or values**, and the **data or values can be changed**. If the value or type of a variable changes during program execution, JavaScript will take care of it.
+
+To go back to the main page, [Click here](https://qamaralkhatib.github.io/reading-notes/)

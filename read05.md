@@ -46,13 +46,12 @@ x = 3
 
 
 **3. Arithmetic Operators**
-<<<<<<< HEAD
-sd
-=======
+
+
 and it takes numerical values as operands and then returnsa single numerical value. and in this Arithmetic we use **(addition, subtraction, multiplication, and division) as a stander Operators.**
 
 here is some **Example:**
->>>>>>> 1f5bb6c19d550051beb706873d0f977a3f828201
+
 
 * ```  1 / 2; // and it's returns 0.5 
 ```
@@ -139,3 +138,6 @@ while(condition){
   statement
 }
 ```
+
+
+To go back to the main page, [Click here](https://qamaralkhatib.github.io/reading-notes/)

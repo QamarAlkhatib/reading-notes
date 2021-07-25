@@ -40,3 +40,4 @@ One of the **most important** developments of HTML5 was the introduction of a st
 3. Mozilla HTML Docs
 HTML elements are labels for content such as **headings, paragraphs, links, etc. An HTML element is a set of other texts within a document** *and* **each tag consists of an element with a surrounding name. For example, the title sign says "title" instead of "title" or vice versa.**
 
+To go back to the main page, [Click here](https://qamaralkhatib.github.io/reading-notes/)
