@@ -1,4 +1,4 @@
-## based on what I've learned in today's class for class
+## based on what I've learned in today's class for CSS
 
 ## 1. CSS
 **Cascading Style Sheet (CSS)** is a style sheet language used to describe the presentation of documents written in a markup language such as HTML. It sets the **background color, font size, font family and color properties of elements in a web page.** The name "cascading" comes from the fact that a priority scheme is set to determine which style rules should apply and whether more than one rule should fit a particular element. 

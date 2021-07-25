@@ -45,5 +45,6 @@ x = 3
 ```
 
 
-
+**3. Arithmetic Operators**
+sd
 
