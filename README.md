@@ -1,6 +1,6 @@
 ### This is the main page
 
-#### Notes for 102 and 201 Code Fellows courses
+#### Notes for 102 code fellows course
 
 #### Introduction about myself 
 
@@ -18,8 +18,3 @@ JavaScript | [Click here](https://qamaralkhatib.github.io/reading-notes/read04)
 CSS | [Click here](https://qamaralkhatib.github.io/reading-notes/read06)
 Operators and Loops | [Click here](https://qamaralkhatib.github.io/reading-notes/read05)
 Functions in JavaScript | [Click here](https://qamaralkhatib.github.io/reading-notes/read07)
-
-### Table of Content for 201 course
-
-Name of the Page | Link to the page
----------------- | --------------- 
