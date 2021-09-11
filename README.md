@@ -1,36 +1,42 @@
-# Reading Notes for code Fellows courses
+# Reading Notes
 
-----------------
-#### **Introduction about myself** 
+## This site will be about my reading notes for code Fellows courses
+
+---
+
+#### **Introduction about myself**
 
  Hello, I'm Qamar Alkhatib (she/her). 20 year old and a highly motivated student aim to graduate as a full-stack web developer. interesting in deep learning/machine as well as planning to do a website with it.
 
 --------------
-## This is the **reading notes for 102** Code Fellows course
+
+## **Code 102 - Intro to Software Development**
+
 ---
-### Table of Content for 102 course
+
+### Table of Content
 
 Name of the Page | Link to the page
----------------- | --------------- 
+---------------- | ---------------
 Growth Mindset | [Click here](https://qamaralkhatib.github.io/reading-notes/growthmindset)
 Markdown Explanation | [Click here](https://qamaralkhatib.github.io/reading-notes/read01)
 Git | [Click here](https://qamaralkhatib.github.io/reading-notes/gitfini)
-HTML | [Click here](https://qamaralkhatib.github.io/reading-notes/read03) 
+HTML | [Click here](https://qamaralkhatib.github.io/reading-notes/read03)
 JavaScript | [Click here](https://qamaralkhatib.github.io/reading-notes/read04)
 CSS | [Click here](https://qamaralkhatib.github.io/reading-notes/read06)
 Operators and Loops | [Click here](https://qamaralkhatib.github.io/reading-notes/read05)
 Functions in JavaScript | [Click here](https://qamaralkhatib.github.io/reading-notes/read07)
 
-
 --------------------------------------------
-## This is the **reading notes for 201** Code Fellows course
 
+## **Code 201 - Foundations of Software Development**
 
 --------
-### Table of Content for 201 course
+
+### Table of Content
 
 Name of the Page | Link to the page
----------------- | --------------- 
+---------------- | ---------------
 class-01 | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-01)
 class-02 | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-02)
 class-03 | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-03)
@@ -48,11 +54,14 @@ class-14a | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-1
 class-14b | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-14b)
 
 -----
-## This is the **reading notes for 301** Code Fellows course
+
+## **Code 301 - Intermediate Software Development**
+
 ---
 
-### Table of Content for 301 course
+### Table of Content
 
 Name of the Page | Link to the page
----------------- | --------------- 
-class-01 | 
+---------------- | ---------------
+Introduction to React and Components | [Click here](https://qamaralkhatib.github.io/reading-Notes/class-1)
+
