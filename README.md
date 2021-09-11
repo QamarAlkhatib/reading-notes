@@ -37,21 +37,21 @@ Functions in JavaScript | [Click here](https://qamaralkhatib.github.io/reading-n
 
 Name of the Page | Link to the page
 ---------------- | ---------------
-class-01 | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-01)
-class-02 | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-02)
-class-03 | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-03)
-class-04 | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-04)
-class-05 | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-05)
-class-06 | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-06)
-class-07 | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-07)
-class-08 | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-08)
-class-09 | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-09)
-class-10 | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-10)
-class-11 | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-11)
-class-12 | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-12)
-class-13 | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-13)
-class-14a | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-14a)
-class-14b | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-14b)
+class-01 | [Click here](https://qamaralkhatib.github.io/reading-notes/code201/class-01)
+class-02 | [Click here](https://qamaralkhatib.github.io/reading-notes/code201/class-02)
+class-03 | [Click here](https://qamaralkhatib.github.io/reading-notes/code201/class-03)
+class-04 | [Click here](https://qamaralkhatib.github.io/reading-notes/code201/class-04)
+class-05 | [Click here](https://qamaralkhatib.github.io/reading-notes/code201/class-05)
+class-06 | [Click here](https://qamaralkhatib.github.io/reading-notes/code201/class-06)
+class-07 | [Click here](https://qamaralkhatib.github.io/reading-notes/code201/class-07)
+class-08 | [Click here](https://qamaralkhatib.github.io/reading-notes/code201/class-08)
+class-09 | [Click here](https://qamaralkhatib.github.io/reading-notes/code201/class-09)
+class-10 | [Click here](https://qamaralkhatib.github.io/reading-notes/code201/class-10)
+class-11 | [Click here](https://qamaralkhatib.github.io/reading-notes/code201/class-11)
+class-12 | [Click here](https://qamaralkhatib.github.io/reading-notes/code201/class-12)
+class-13 | [Click here](https://qamaralkhatib.github.io/reading-notes/code201/class-13)
+class-14a | [Click here](https://qamaralkhatib.github.io/reading-notes/code201/class-14a)
+class-14b | [Click here](https://qamaralkhatib.github.io/reading-notes/code201/class-14b)
 
 -----
 
@@ -63,5 +63,5 @@ class-14b | [Click here](https://qamaralkhatib.github.io/readingNotes201/class-1
 
 Name of the Page | Link to the page
 ---------------- | ---------------
-Introduction to React and Components | [Click here](https://qamaralkhatib.github.io/reading-Notes/class-1)
-
+Introduction to React and Components | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-1)
+ 
