@@ -77,6 +77,7 @@ Props and state vary in that state is internal and controlled by the component, 
 
 - user data
 - data from a form
+
 ------
 ## Things I want to know more about
 
