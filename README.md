@@ -65,3 +65,4 @@ Name of the Page | Link to the page
 ---------------- | ---------------
 Introduction to React and Components | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-1)
 State and Props | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-2)
+Passing Functions as Props| [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-3)
