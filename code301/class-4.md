@@ -38,3 +38,6 @@ after adding the setState on the ChangeInput function, we can target the event a
 Using ternary statment: 
 
 ``` x===y ? true : false; ```
+
+## Things I want to know more about 
+
