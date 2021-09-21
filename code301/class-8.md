@@ -34,11 +34,11 @@ A resource has an identifier, which is a URI that uniquely identifies that resou
 
 9. What status code does an unsuccessful GET request return?
 
-``` 404 (Not Found)```
+```404 (Not Found)```
 
 10. What status code does a successful POST request return?
 
-``` status code 201 (Created)```
+```status code 201 (Created)```
 
 11. What status code does a successful DELETE request return?
 
