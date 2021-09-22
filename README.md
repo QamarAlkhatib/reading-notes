@@ -71,3 +71,4 @@ Putting it all together | [Click here](https://qamaralkhatib.github.io/reading-n
 NODE.JS | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-6)
 REST | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-7)
 APIs | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-8)
+FUNCTIONAL PROGRAMMING | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-9)
