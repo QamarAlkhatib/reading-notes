@@ -72,3 +72,4 @@ NODE.JS | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/cla
 REST | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-7)
 APIs | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-8)
 FUNCTIONAL PROGRAMMING | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-9)
+In memory storage | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-10)
