@@ -71,5 +71,6 @@ Putting it all together | [Click here](https://qamaralkhatib.github.io/reading-n
 NODE.JS | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-6)
 REST | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-7)
 APIs | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-8)
-FUNCTIONAL PROGRAMMING | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-9)
+Functional Programming | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-9)
 In memory storage | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-10)
+Authentication | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-11)
