@@ -74,3 +74,4 @@ APIs | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-
 Functional Programming | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-9)
 In memory storage | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-10)
 Authentication | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-11)
+Mongo and Mongoose | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-12)
