@@ -75,3 +75,4 @@ Functional Programming | [Click here](https://qamaralkhatib.github.io/reading-no
 In memory storage | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-10)
 Authentication | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-11)
 Mongo and Mongoose | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-12)
+CRUD | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-13)
