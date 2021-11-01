@@ -88,3 +88,4 @@ CRUD | [Click here](https://qamaralkhatib.github.io/reading-notes/code301/class-
 Name of the Page | Link to the page
 ---------------- | ---------------
 Topic | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-01)
+Testing and Modules | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-02)
