@@ -89,3 +89,4 @@ Name of the Page | Link to the page
 ---------------- | ---------------
 Topic | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-01)
 Testing and Modules | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-02)
+FileIO & Exceptions | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-03)
