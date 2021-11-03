@@ -14,18 +14,19 @@
 
 ---
 
+
 ### Table of Content
 
 Name of the Page | Link to the page
 ---------------- | ---------------
-Growth Mindset | [Click here](https://qamaralkhatib.github.io/reading-notes/growthmindset)
-Markdown Explanation | [Click here](https://qamaralkhatib.github.io/reading-notes/read01)
-Git | [Click here](https://qamaralkhatib.github.io/reading-notes/gitfini)
-HTML | [Click here](https://qamaralkhatib.github.io/reading-notes/read03)
-JavaScript | [Click here](https://qamaralkhatib.github.io/reading-notes/read04)
-CSS | [Click here](https://qamaralkhatib.github.io/reading-notes/read06)
-Operators and Loops | [Click here](https://qamaralkhatib.github.io/reading-notes/read05)
-Functions in JavaScript | [Click here](https://qamaralkhatib.github.io/reading-notes/read07)
+Growth Mindset | [Click here](https://qamaralkhatib.github.io/reading-notes/code102/growthmindset)
+Markdown Explanation | [Click here](https://qamaralkhatib.github.io/reading-notes/code102/read01)
+Git | [Click here](https://qamaralkhatib.github.io/reading-notes/code102/gitfini)
+HTML | [Click here](https://qamaralkhatib.github.io/reading-notes/code102/read03)
+JavaScript | [Click here](https://qamaralkhatib.github.io/reading-notes/code102/read04)
+CSS | [Click here](https://qamaralkhatib.github.io/reading-notes/code102/read06)
+Operators and Loops | [Click here](https://qamaralkhatib.github.io/reading-notes/code102/read05)
+Functions in JavaScript | [Click here](https://qamaralkhatib.github.io/reading-notes/code102/read07)
 
 --------------------------------------------
 
@@ -91,3 +92,4 @@ Topic | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class
 Testing and Modules | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-02)
 FileIO & Exceptions | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-03)
 Classes and Objects | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-04)
+Linked Lists | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-05)
