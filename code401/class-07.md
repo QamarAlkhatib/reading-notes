@@ -105,11 +105,48 @@ In Python, globals() is a built-in function that returns a reference to the curr
 
 -----
 
+## The nonlocal Statement
+
+Python allows you to define a list of names that are going to be treated as nonlocal. Similarly to global names, nonlocal names can be accessed from inner functions, but not assigned or updated. If you want to modify them, then you need to use a nonlocal statement.
+
+- Here is an example:
+
+```python
+>>> def func():
+...     var = 100  # A nonlocal variable
+...     def nested():
+...         nonlocal var  # Declare var as nonlocal
+...         var += 100
+...
+...     nested()
+...     print(var)
+...
+>>> func()
+200
+```
+
+With the statement nonlocal var, you tell Python that you'll be modifying var inside nested(). Then, you increment var using an augmented assignment operation. This change is reflected in the nonlocal name var, which now has a value of 200. Unlike global, you can't use nonlocal outside of a nested or enclosed function.
+
+Try to use a nonlocal statement in the global Python scope and you'll get a SyntaxError. Since nonlocal only works inside an inner or nested function, you can't use nonlocal in a module scope. Notice that nonlocal doesn't work inside a local scope either. ```Here is an example:```
+
+```python
+>>> nonlocal my_var  # Try to use nonlocal in the global scope
+  File "<stdin>", line 1
+SyntaxError: nonlocal declaration not allowed at module level
+>>> def func():
+...     nonlocal var  # Try to use nonlocal in a local scope
+...     print(var)
+...
+  File "<stdin>", line 2
+SyntaxError: no binding for nonlocal 'var' found
+
+```
+-----------
+
 ## locals()
 
-This function updates and returns a dictionary that holds a copy of the current state of the local Python scope or namespace. When you call locals() in a function block, you get all the names assigned in the local or function scope up to that point.
-    - Here is an example:
-    
+This function updates and returns a dictionary that holds a copy of the current state of the local Python scope or namespace. When you call locals() in a function block, you get all the names assigned in the local or function scope up to that point. ```Here is an example:```
+
 ```python
 >>> def func(arg):
 ...     var = 100
