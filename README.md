@@ -1,6 +1,6 @@
 # Reading Notes
 
-## This site will be about my reading notes for code Fellows courses
+## This Repo will be about my reading notes for code Fellows courses
 
 ---
 
@@ -94,3 +94,4 @@ FileIO & Exceptions | [Click here](https://qamaralkhatib.github.io/reading-notes
 Classes and Objects | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-04)
 Linked Lists | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-05)
 Game of Greed 1 | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-06)
+Game of Greed 2 | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-07)
