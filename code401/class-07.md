@@ -2,17 +2,17 @@
 
 ## Modules: The Global Scope
 
-Internally, Python turns your program’s main script into a module called ```__main__``` to hold the main program’s execution. In Python, the notions of global scope and global names are tightly associated with module files.
+Internally, Python turns your program’s main script into a module called `__main__` to hold the main program’s execution. In Python, the notions of global scope and global names are tightly associated with module files.
 
 - to check if you are in the main module you can check by typing:
 
-    ```python
-    >>> __name__
-    '__main__'
+  ```python
+  >>> __name__
+  '__main__'
 
-    ```
+  ```
 
-Python's 'main' module or script is the entry point to your program. It contains the code that executes when you run a Python program or interactive session. From this point on, you can say that your main global scope is the scope of ```__main__```.
+Python's 'main' module or script is the entry point to your program. It contains the code that executes when you run a Python program or interactive session. From this point on, you can say that your main global scope is the scope of `__main__`.
 
 To inspect the names within your main global scope, you can use dir(). If you call dir() without arguments, then you’ll get the list of names that live in your current global scope. Take a look at this code:
 
@@ -26,15 +26,15 @@ There's only one global Python scope per program execution. This scope remains i
 
 - Whenever you assign a value to a name in Python, one of two things can happen:
 
-    1. You create a new name
-    2. You update an existing name
+  1. You create a new name
+  2. You update an existing name
 
 If you try to assign a value to a global name inside a function, you'll be creating that name in the function's local scope. This means you won't be able to change most variables that have been defined outside the function from within the function itself.
 
 Here is an example:
 
 ```python
-    
+
     >>> var = 100  # A global variable
     >>> def increment():
     ...     var = var + 1  # Try to update a global variable
@@ -65,7 +65,7 @@ Good programming practice recommends using local names rather than global names.
 - Avoid cross-module name modifications.
 - Use global names as constants that don’t change during your program’s execution.
 
-----
+---
 
 ## The global Statement
 
@@ -88,7 +88,7 @@ With a global statement, you can define a list of names that are going to be tre
 3
 ```
 
------
+---
 
 ## globals()
 
@@ -103,7 +103,7 @@ In Python, globals() is a built-in function that returns a reference to the curr
 
 ```
 
------
+---
 
 ## The nonlocal Statement
 
@@ -127,7 +127,7 @@ Python allows you to define a list of names that are going to be treated as nonl
 
 With the statement nonlocal var, you tell Python that you'll be modifying var inside nested(). Then, you increment var using an augmented assignment operation. This change is reflected in the nonlocal name var, which now has a value of 200. Unlike global, you can't use nonlocal outside of a nested or enclosed function.
 
-Try to use a nonlocal statement in the global Python scope and you'll get a SyntaxError. Since nonlocal only works inside an inner or nested function, you can't use nonlocal in a module scope. Notice that nonlocal doesn't work inside a local scope either. ```Here is an example:```
+Try to use a nonlocal statement in the global Python scope and you'll get a SyntaxError. Since nonlocal only works inside an inner or nested function, you can't use nonlocal in a module scope. Notice that nonlocal doesn't work inside a local scope either. `Here is an example:`
 
 ```python
 >>> nonlocal my_var  # Try to use nonlocal in the global scope
@@ -141,11 +141,12 @@ SyntaxError: nonlocal declaration not allowed at module level
 SyntaxError: no binding for nonlocal 'var' found
 
 ```
------------
+
+---
 
 ## locals()
 
-This function updates and returns a dictionary that holds a copy of the current state of the local Python scope or namespace. When you call locals() in a function block, you get all the names assigned in the local or function scope up to that point. ```Here is an example:```
+This function updates and returns a dictionary that holds a copy of the current state of the local Python scope or namespace. When you call locals() in a function block, you get all the names assigned in the local or function scope up to that point. `Here is an example:`
 
 ```python
 >>> def func(arg):
