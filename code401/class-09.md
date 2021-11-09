@@ -1,6 +1,6 @@
 # Game of Greed 4
 
-## *****Dunder Methods*****
+## ***Dunder Methods***
 
 ### What Are Dunder Methods?
 
@@ -67,13 +67,13 @@ class LenSupport:
 
 ------------
 
-## *****What is probability?*****
+## ***What is probability?***
 
 At the most basic level, probability seeks to answer the question, “What is the chance of an event happening?” An event is some outcome of interest. To calculate the chance of an event happening, we also need to consider all the other events that can occur. The quintessential representation of probability is the humble coin toss. In a coin toss the only events that can happen are:
 
 - Flipping a heads
 - Flipping a tails
 
-## *****The data and the distribution*****
+## ***The data and the distribution***
 
 distribution:  In probability, the normal distribution is a particular distribution of the probability across all of the events. The x-axis takes on the values of events we want to know the probability of. The y-axis is the probability associated with each event, from 0 to 1. 
