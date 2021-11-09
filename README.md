@@ -96,3 +96,4 @@ Linked Lists | [Click here](https://qamaralkhatib.github.io/reading-notes/code40
 Game of Greed 1 | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-06)
 Game of Greed 2 | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-07)
 Game of Greed 3 | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-08)
+Game of Greed 4 | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-09)
