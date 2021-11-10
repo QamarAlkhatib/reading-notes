@@ -128,7 +128,7 @@ List In Last out means that the last item in the queue will be the last item to 
                 rear.next = new_node
                 rear = new_node
 
-            ```
+        ```
 
     2. Dequeue: removing an item from the queue and its time complexity is o(1)/
 
@@ -148,8 +148,7 @@ List In Last out means that the last item in the queue will be the last item to 
                 front = front.Next
                 temp.next = null
                 return temp.value
-
-            ```
+        ```
 
     3. Peek: the time complexity will be O(1), when doing a peek, we need to check if its empty before to ensure that the exception is not thrown.
 
@@ -170,4 +169,5 @@ List In Last out means that the last item in the queue will be the last item to 
             ALGORITHM isEmpty()
             
             return front = None
-            ```
+
+        ```
