@@ -1,6 +1,7 @@
 # Reading Notes
 
 ## This Repo will be about my reading notes for code Fellows courses
+Live URL [here](https://qamaralkhatib.github.io/reading-notes/)
 
 ---
 
