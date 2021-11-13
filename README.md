@@ -98,3 +98,5 @@ Game of Greed 3 | [Click here](https://qamaralkhatib.github.io/reading-notes/cod
 Game of Greed 4 | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-09)
 Stacks and Queues | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-10)
 Data Analysis | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-11)
+Pandas in 10 | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-12)
+
