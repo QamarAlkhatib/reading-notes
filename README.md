@@ -1,7 +1,6 @@
 # Reading Notes
 
 ## This Repo will be about my reading notes for code Fellows courses
-Live URL [here](https://qamaralkhatib.github.io/reading-notes/)
 
 ---
 
@@ -14,7 +13,6 @@ Live URL [here](https://qamaralkhatib.github.io/reading-notes/)
 ## **Code 102 - Intro to Software Development**
 
 ---
-
 
 ### Table of Content
 
@@ -99,3 +97,4 @@ Game of Greed 2 | [Click here](https://qamaralkhatib.github.io/reading-notes/cod
 Game of Greed 3 | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-08)
 Game of Greed 4 | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-09)
 Stacks and Queues | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-10)
+Data Analysis | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-11)
