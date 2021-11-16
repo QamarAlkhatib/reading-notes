@@ -6,16 +6,16 @@ Scikit-learn is a strong Python machine learning tool. Regression, classificatio
 
 we can import scikit-learn library As:
 
-    ```python
-    import sklearn
+```python
+import sklearn
 
-    ```
+```
 
 - with scikit-learn library we can predict the output according to the data provided. for that we need to import Linear Regressions. we can do it as:
 
-        ```python
-        from sklearn.linear_model import LinearRegression
-        ```
+```python
+from sklearn.linear_model import LinearRegression
+```
 
 
 Important functions to keep in mind while fitting a linear regression model are:
