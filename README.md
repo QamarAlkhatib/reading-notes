@@ -104,3 +104,4 @@ Data Visualization | [Click here](https://qamaralkhatib.github.io/reading-notes/
 Tree | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-15)
 Machine Learning Intro | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-16)
 Web Scraping | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-17)
+Automation | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-18)
