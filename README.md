@@ -8,7 +8,7 @@
 
  Hello, I'm Qamar Alkhatib (she/her). 20 year old and a highly motivated student aim to graduate as a full-stack web developer. interesting in deep learning/machine as well as planning to do a website with it.
 
---------------
+---------------------
 
 ## **Code 102 - Intro to Software Development**
 
