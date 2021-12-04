@@ -189,3 +189,5 @@ Django protects you from a variety of threats, including:
 ## *How Django Works Behind the Scenes*
 
 Django is a Python-based web framework that is utilized by millions of developers and billions of users via popular apps such as Instagram. It is open source, which means that the code may be downloaded for free from Github and used alongside the official documentation by any developer. However, I've found that even experienced Django developers have little understanding of "how" Django is truly run, both technically and legally/financially.
+
+
