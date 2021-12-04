@@ -144,9 +144,9 @@
         message = gettext('Welcome to our site!')
         return render(request, 'homepage.html', {'message': message})
         
-    ```html
+    ```
 
-    ```python
+    <!-- ```html
         {% load i18n %}
         <html>
             <head>
@@ -172,7 +172,7 @@
                 </ul>
             </body>
         </html>
-    ```
+    ``` -->
 
 - Security
 
