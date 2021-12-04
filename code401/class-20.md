@@ -53,3 +53,14 @@ class Meta:
 ```
 
 Controlling the default ordering of records returned when querying the model type is one of the most helpful capabilities of this metadata. As seen above, you achieve this by setting the match order in a list of field names in the ordering attribute. The order of the fields will be determined by the type of field (character fields are sorted alphabetically, while date fields are sorted in chronological order). To reverse the sorting order, precede the field name with a negative symbol (-), as seen above.
+
+
+--------
+
+## Django Admin
+
+Your models can be used by the Django admin application to create a site area where you can create, view, update, and delete records. This can save you a lot of time during development by allowing you to quickly test your models and see if you have the proper data. Depending on the type of website, the admin application can also be used to manage data in production. Because the model-centric approach is not always the greatest possible interface for all users, and exposes a lot of superfluous detail about the models, the Django project advises it solely for internal data administration (i.e. only for usage by admins, or anyone internal to your business).
+
+## Creating a superuser
+
+We'll need a user account with the Staff status enabled to access the admin site. This user must also have permissions to control all of our objects in order to see and create data. Using manage.py, you may establish a "superuser" account with complete access to the site and all necessary permissions.
