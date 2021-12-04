@@ -58,7 +58,7 @@
 
     Example:
 
-    ```HTML
+    ```html
     <html>
         <head>
             <title>Band Listing</title>
@@ -144,9 +144,9 @@
         message = gettext('Welcome to our site!')
         return render(request, 'homepage.html', {'message': message})
         
-    ```
+    ```html
 
-    ```HTML
+    ```python
         {% load i18n %}
         <html>
             <head>
