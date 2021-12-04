@@ -106,3 +106,4 @@ Machine Learning Intro | [Click here](https://qamaralkhatib.github.io/reading-no
 Web Scraping | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-17)
 Automation | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-18)
 Intro to Django | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-19)
+Django Models | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-20)
