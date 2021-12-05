@@ -107,3 +107,4 @@ Web Scraping | [Click here](https://qamaralkhatib.github.io/reading-notes/code40
 Automation | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-18)
 Intro to Django | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-19)
 Django Models | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-20)
+Django Forms | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-21)
