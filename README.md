@@ -111,3 +111,4 @@ Django Forms | [Click here](https://qamaralkhatib.github.io/reading-notes/code40
 Django Custom User | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-22)
 Hash Tables | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-23)
 Django REST Framework & Docker | [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-24)
+Permissions & Postgresql| [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-25)
