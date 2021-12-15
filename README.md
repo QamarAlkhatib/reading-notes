@@ -114,3 +114,4 @@ Django REST Framework & Docker | [Click here](https://qamaralkhatib.github.io/re
 Permissions & Postgresql| [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-25)
 Authentication & Production Server| [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-26)
 API Deployment| [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-27)
+Graphs| [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-28)
