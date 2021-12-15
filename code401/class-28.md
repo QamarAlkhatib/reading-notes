@@ -75,7 +75,7 @@ Each Row and column represents each vertex of the data structure. The elements o
 
 ![img](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/UndirectedGraph.PNG)
 
-As adjacency Matrix = 
+As adjacency Matrix =
 ![img](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/AdjMatrix.PNG)
 
 ## **Adjacency List**
@@ -88,13 +88,11 @@ This is what an Adjacency List looks like:
 
 ![img](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/AdjList.PNG)
 
-
 ## Weighted Graphs
 
 A weighted graph is a graph with numbers assigned to its edges. These numbers are called weights. This is what a weighted graph looks like:
 
 ![img](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/weightGraph.PNG)
-
 
 Here is what the algorithm breadth first traversal looks like:
 
@@ -102,3 +100,5 @@ Here is what the algorithm breadth first traversal looks like:
 - Create a loop that will run while the node still has nodes present.
 - Dequeue the first node from the queue
 - if the Dequeue‘d node has unvisited child nodes, add the unvisited children to visited set and insert them into the queue.
+
+<https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/graphs.html>
