@@ -115,3 +115,4 @@ Permissions & Postgresql| [Click here](https://qamaralkhatib.github.io/reading-n
 Authentication & Production Server| [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-26)
 API Deployment| [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-27)
 Graphs| [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-28)
+DSA Review| [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-29)
