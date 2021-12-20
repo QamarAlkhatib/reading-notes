@@ -117,3 +117,4 @@ API Deployment| [Click here](https://qamaralkhatib.github.io/reading-notes/code4
 Graphs| [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-28)
 DSA Review| [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-29)
 React 1| [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-30)
+React 2| [Click here](https://qamaralkhatib.github.io/reading-notes/code401/class-31)
