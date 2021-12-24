@@ -79,7 +79,7 @@ Here, we use getInitialProps to get the dynamic route passed in.
 
 ## Next.js - Deployment
 
-Deploy to Vercel
+- Deploy to Vercel
 
 The easiest way to deploy Next.js to production is to use the Vercel platform developed by the creators of Next.js.
 
