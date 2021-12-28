@@ -1,6 +1,6 @@
 # Reading Notes
 
-## This Repo will be about my reading notes for code Fellows courses
+## code Fellows Reading Notes courses
 
 ---
 
