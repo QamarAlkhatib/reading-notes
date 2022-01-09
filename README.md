@@ -1,6 +1,6 @@
 # Reading Notes
 
-## code Fellows Reading Notes courses
+## Code Fellows Reading Notes courses
 
 ---
 
